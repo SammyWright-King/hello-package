@@ -1,0 +1,17 @@
+{
+    "name": "akanni/hello",
+    "description": "just a random package to learn how this library works",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "olumuyiwa",
+            "email": "olumuyiwa@elta.solutions"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"akanni\\hello\\" : "src/"}
+    }, 
+    "require": {}
+}
